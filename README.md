@@ -12,7 +12,7 @@ In August 2019, the US Federal Reserve cut interest rates by 25 basis points - t
 
 Quantitative Easing
 -------------------
-Quantitative easing, along with low interest rates has lead to a Cantillon Effect whereby those closest to the money supply (e.g. those with access to cheap credit, or those who receive newly created money) are [enriched at the expense of wider society][12]. First-receivers get to use the money before it has a devaluing effect.
+Quantitative easing, along with low interest rates has lead to a Cantillon Effect whereby those closest to the money supply (e.g. those with access to cheap credit, or those who receive newly created money) are [enriched at the expense of wider society][12]. First-receivers get to use the money before it has a devaluing effect in the wider economy.
 
 [Negative interest rates][7] are a relatively new monetary policy tool designed (not surprisingly) to discourage saving and encourage people to spend. If you don't spend now, you are charged for leaving money in the bank. This kind of policy is anathema to the Austrian school of Economics ([representative article][8]). It is also arguably 
 
