@@ -38,6 +38,108 @@ Social Unrest
 -------------
 Widening inequality (as outlined above, in particular due to the [Cantillon Effect][13] has arguably influenced the rise of populism (Trump, Brexit, Gilet Jaunes etc.). 
 
+Likelihood of Recession
+-----------------------
+What are the chances of a recession in the short-term (coming months)?
+
+What are the likely timelines?
+
+What are good positions to capitalise on the situation or weather the storm?
+
+### Indicators
+Falling Economic Cycle Research Institute (ECRI) correlated with:
+
+* Cass Freight Index Shipments - freight shipments have fallen
+* Car loadings - collapsing
+* Capital goods new orders, non-defence excluding aircraft - big ticket items requiring finance
+
+Suggest capital goods are trending downward.
+
+#### US Data:
+
+Indicators that households are struggling:
+
+* Car sales falling
+* Clothing sales have collapsed in recent months
+* US restaurant sales weak
+
+Global semi-conductor sales are also in a downward trend.
+
+US housing market - Case Shiller Index starting to weaken. Weakness in house prices, US new housing starts.
+
+Shipping & goods transportation is weak, weakness in business expenditure and indications that consumer spending is also weak.
+
+Unemployment in US is still low, but this is a lagging indicator.
+
+See [Recession Crisis Indicators Explored][16], 0 - 5 min.
+
+### Extent of Recession?
+Is a mild slowdown coming or a major recession?
+
+Demographics and debt profile suggest the latter. Downturn appears to be evident on a global scale - not in any single country.
+
+### Potential Chain of Events
+Raoul Pal, Real Vision:
+
+#### Phase 1: Alarm Bells
+
+* Business cycle weakens
+* Credit spreads widen
+* Corporate cash flow worsens
+* Equities(shares) fall 
+* Volatility increases
+
+In progress - started October 2018
+
+#### Phase 2: Strap In
+
+* Business cycle weakens further
+* Credit spreads widen further
+* Corporate cash flow & profits decline
+* Tax receipts fall
+* Pensions stop buying debt
+* BBB rated stocks fall, bonds fall
+* Equities fall hard.
+
+Next phase, Autumn 2019. If phase 2 plays out, the situation becomes more clear.
+
+#### Phase 3: Ugliness Ensues
+
+* Baby Boomers Sell Stocks - panic, get out of equities (permanently?)
+* BBB debt downgraded to junk
+* ECB/Euro governments bailout Euro banks
+* Spreads explode, credit seizes up - pension funds forced to sell on downgrades
+* Equities collapse - no natural buyers
+* Pension funds default on obligations - big companies forced to bankruptcy
+
+[Recession Crisis Indicators Explored, 3 min 30][17]
+
+Opinion: Lakshman Achuthan (co-founder of ECRI)
+-----------------------------------------------
+"Slow walking towards a cyclical window of vulnerability."
+
+Recession due to a negative shock? No - based on an endogenous cycle. Leading indicators suggest that we're in a downturn.
+
+If leading indicators begin to fall further, virtually any negative shock can become a "recessionary shock".
+
+See: [Recession Crisis Indicators Explored][18], 6min29. 
+
+Opinion: Teddy Vallee (CIO Pervalle Global)
+-------------------------------------------
+Is the US entering recession?
+
+__If__ it happens, it will happen between now and June 2020.
+
+Never been a higher probability for US recession.
+
+Opinion: Christophe Ollari (Founder, Ollari consulting)
+-------------------------------------------------------
+Central banks struggling/working to prevent downturn? Low interest rates, 14T on balance sheets.
+
+Central Banks won't be able to do what they did in 2008, but will work hard to do what they can. This may prevent a recession in the short term.
+
+Bullish on gold. Real yields will go lower, risk of debasement of the fiat currencies.
+
 
 Resources
 ---------
@@ -51,6 +153,8 @@ Resources
 * [How central banks increased inequality][12]
 * [Cantillon Effect: financing the financiers][13]
 * [Investopedia: Size of derivatives market:][14]
+* [Economic Cycle Research Institute (ECRI)][15]
+* [Real Vision: Recession Crisis Indicators Explored][16]
 
 [1]: https://threadreaderapp.com/thread/1159076338126532610.html
 [2]: https://twitter.com/RaoulGMI/status/1159076338126532610
@@ -66,3 +170,7 @@ Resources
 [12]: https://www.zerohedge.com/news/2017-08-16/how-central-banking-increased-inequality
 [13]: https://fee.org/articles/the-cantillon-effect-because-of-inflation-we-re-financing-the-financiers/
 [14]: https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp
+[15]: https://www.businesscycle.com/ecri-about
+[16]: https://youtu.be/NA4MfGt3Gho
+[17]: https://www.youtube.com/watch?v=NA4MfGt3Gho&t=210s
+[18]: https://www.youtube.com/watch?v=NA4MfGt3Gho&t=390s
